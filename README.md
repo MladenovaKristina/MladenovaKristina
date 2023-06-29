@@ -6,9 +6,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=MladenovaKristina&theme=transparent&background=rgba(255,0,0,0))](https://git.io/streak-stats)
 
-### :dizzy: Playable Ads Developer :video_game:	 <br>
+### :dizzy: Playable Ads Developer	 <br>
 <img src="https://berlingamescene.com/wp-content/uploads/2019/12/crazy-labs.png" width="100"/><br>
-### since 22.05.2024<br>
+since 22.05.2024<br>
 
 <br>
 
