@@ -8,7 +8,7 @@
 
 ### :dizzy: Playable Ads Developer	 <br>
 since 22.05.2024<br><br>
-<a href="https://www.crazylabs.com/"><img src="https://berlingamescene.com/wp-content/uploads/2019/12/crazy-labs.png" width="100"/></a><br>
+<a href="https://www.crazylabs.com/"><img src="https://berlingamescene.com/wp-content/uploads/2019/12/crazy-labs.png"/></a><br>
 
 <br>
 
