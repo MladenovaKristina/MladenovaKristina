@@ -1,7 +1,10 @@
-### Playable Ads Developer at   <img src="https://berlingamescene.com/wp-content/uploads/2019/12/crazy-labs.png" width="100"/>
+<div id="header" align="center" style="color:#2627E8">
+### Playable Ads Developer<br>
+<img src="https://berlingamescene.com/wp-content/uploads/2019/12/crazy-labs.png" width="100"/><br>
+### since 22.05.2024<br>
 
 <br>
-<div id="header" align="center" style="pointer-events:none;">
+
   <img src="https://i.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.webp" width="100"/>
 <br><br>
 
