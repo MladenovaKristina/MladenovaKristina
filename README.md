@@ -3,4 +3,4 @@
 <br><br></div>
 
   
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=MladenovaKristina&theme=light&background=rgba(255,0,0,0)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=MladenovaKristina&theme=transparent&background=rgba(255,0,0,0))http://github-readme-streak-stats.herokuapp.com/?user=MladenovaKristina&theme=transparent&background=rgba(255,0,0,0)](https://git.io/streak-stats)]
