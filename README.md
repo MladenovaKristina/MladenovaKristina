@@ -12,6 +12,7 @@
 <a href="https://www.crazylabs.com/"><img src="https://www.crazylabs.com/lp/crazy-summer-challenge/media/shrimpy.png" width="100"/></a>  
   </td>
   <td>   
+    
 ### :dizzy: Playable Ads Developer	
 since 22.05.2024
   </td>
