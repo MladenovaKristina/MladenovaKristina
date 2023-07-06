@@ -14,7 +14,7 @@
       </td>
       <td><center>
         <h3>:dizzy: Playable Ads Developer</h3>
-        <p>Since 22.05.2024</p></center>center>
+        <p>Since 22.05.2024</p></center>
       </td>
     </tr>
   </table>
