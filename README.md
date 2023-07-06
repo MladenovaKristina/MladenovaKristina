@@ -13,11 +13,10 @@
         </a>
       </td>
       <td>
-        
-### :dizzy: Playable Ads Developer
-        Since 22.05.2024
-        
-    </td></tr>
+        <h3>:dizzy: Playable Ads Developer</h3>
+        <p>Since 22.05.2024</p>
+      </td>
+    </tr>
   </table>
   <br>
   <br>
