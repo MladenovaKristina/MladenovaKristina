@@ -5,19 +5,19 @@
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=MladenovaKristina&theme=transparent&background=rgba(255,0,0,0)" alt="GitHub Streak" />
   </a>
   <br><br>
-  <table>
+  <table style="text-align:center; vertical-align:middle;border: none;">
     <tr>
       <td>
         <a href="https://www.crazylabs.com/">
           <img src="https://www.crazylabs.com/lp/crazy-summer-challenge/media/shrimpy.png" width="100" alt="CrazyLabs Logo" />
         </a>
       </td>
-      <td style="text-align:center; vertical-align:middle;">
+      <td >
         
 ### :dizzy: Playable Ads Developer
         Since 22.05.2024
         
-    
+    </td></tr>
   </table>
   <br>
   <br>
