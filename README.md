@@ -8,9 +8,10 @@
 
 <span>
   
+<a href="https://www.crazylabs.com/"><img src="https://www.crazylabs.com/lp/crazy-summer-challenge/media/shrimpy.png" width="100" style="float:left"/></a>
 ### :dizzy: Playable Ads Developer	
 since 22.05.2024<br><br>
-<a href="https://www.crazylabs.com/"><img src="https://www.crazylabs.com/lp/crazy-summer-challenge/media/shrimpy.png" width="100" style="float:left"/></a><br>
+<br>
 
 </span>
 <br>
