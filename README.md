@@ -15,7 +15,7 @@
       <td style="text-align:center; vertical-align:middle;">
         
 ### :dizzy: Playable Ads Developer
-        <p>Since 22.05.2024</p>
+        Since 22.05.2024
       </td>
     </tr>
   </table>
