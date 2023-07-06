@@ -17,8 +17,7 @@
 ### :dizzy: Playable Ads Developer
         Since 22.05.2024
         
-      </td>
-    </tr>
+    
   </table>
   <br>
   <br>
