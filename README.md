@@ -5,7 +5,7 @@
     <img src="http://github-readme-streak-stats.herokuapp.com/?user=MladenovaKristina&theme=transparent&background=rgba(255,0,0,0)" alt="GitHub Streak" />
   </a>
   <br><br>
-  <table style="text-align:center; vertical-align:middle;border: none;">
+  <table style="border: none;">
     <tr>
       <td>
         <a href="https://www.crazylabs.com/">
