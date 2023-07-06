@@ -6,10 +6,11 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com/?user=MladenovaKristina&theme=transparent&background=rgba(255,0,0,0))](https://git.io/streak-stats)
 
+<span>
 ### :dizzy: Playable Ads Developer	
 since 22.05.2024<br><br>
-<a href="https://www.crazylabs.com/"><img src="https://www.crazylabs.com/lp/crazy-summer-challenge/media/shrimpy.png" width="100"/></a><br>
-
+<a href="https://www.crazylabs.com/"><img src="https://www.crazylabs.com/lp/crazy-summer-challenge/media/shrimpy.png" width="100" style="float:left"/></a><br>
+</span>
 <br>
 
 </div>
