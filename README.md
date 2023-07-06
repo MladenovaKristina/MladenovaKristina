@@ -12,9 +12,9 @@
           <img src="https://www.crazylabs.com/lp/crazy-summer-challenge/media/shrimpy.png" width="100" alt="CrazyLabs Logo" />
         </a>
       </td>
-      <td>
+      <td><center>
         <h3>:dizzy: Playable Ads Developer</h3>
-        <p>Since 22.05.2024</p>
+        <p>Since 22.05.2024</p></center>center>
       </td>
     </tr>
   </table>
