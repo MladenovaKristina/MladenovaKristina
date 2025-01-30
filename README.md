@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://i.giphy.com/media/7Z49eulwv4aGY35RaD/giphy.webp" width="100" alt="Logo" />
   <br><br>
- <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MladenovaKristina&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CFri%2CSat" alt="GitHub Streak" /></a>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MladenovaKristina&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&exclude_days=Sun%2CFri%2CSat)](https://git.io/streak-stats)
+  
   <br><br>
   <table style="border: none;">
     <tr>
